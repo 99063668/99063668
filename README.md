@@ -3,7 +3,7 @@
 # Hey! 👋
 I'm Dewi,
 
-- <em>Currently:</em> Student software developer
+- <em>Currently:</em> Software developer
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dewivdvelden) 
