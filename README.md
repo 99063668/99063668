@@ -1,5 +1,3 @@
-![Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm9zaGI0d3hreDg4bjZ2aDNrcTBseXNtbWx0dG4zeG8xandia2MxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2MvZhGBWSogLx6/giphy.gif)
-
 # Hey! 👋
 I'm Dewi,
 
